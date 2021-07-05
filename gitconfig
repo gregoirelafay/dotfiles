@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = lafaygregoire@gmail.com
+	name = Gregoire Lafay
